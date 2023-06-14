@@ -1,0 +1,116 @@
+
+/*#title {
+  position: sticky;
+}*/
+
+/*body{
+    background-color: #333;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 10px 20px;
+  }
+
+  .title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 560px;
+  }
+  
+  .line {
+    height: 3px;
+    width: 25px;
+    background-color: #fff;
+    margin: 5px;
+  }
+  
+  .menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu li {
+    position: relative;
+  }
+  
+  .menu li:hover .submenu {
+    display: block;
+  }
+  
+  .menu a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .submenu{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    display: none;
+    position: absolute;
+    background-color: #333;
+    list-style: none;
+    align-content: space-evenly;
+    margin: 0;
+    padding: 0;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+  }
+
+  .submenu button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    background-color: #333;
+    color: #fff;
+    width: 200px;
+    padding-top: 2.5px;
+  }
+
+  .Wrapper {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    padding-left: 2%;
+    color: #fff;
+  }
+  
+  
+  @media (max-width: 768px) {
+
+    .menu {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      background-color: #333;
+    }
+    .menu li {
+      width: 100%;
+      text-align: center;
+    }
+    .submenu {
+      position: static;
+      display: block;
+      background-color: transparent;
+      margin-top: 10px;
+    }
+    .submenu button {
+      width: 100%;
+    }
+  }*/
+  
